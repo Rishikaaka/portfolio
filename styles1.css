@@ -8,6 +8,7 @@ body, h1, h2, p, ul, li {
 body {
   font-family: Arial, sans-serif;
   background-color: #f1f1f1;
+  color: #333;
 }
 
 /* Header and Navigation */
@@ -47,7 +48,6 @@ nav ul li a:hover {
 #home h1 {
   font-size: 36px;
   margin-bottom: 20px;
-  color: #333;
 }
 
 /* About Section */
@@ -111,4 +111,46 @@ footer {
   padding: 20px;
   text-align: center;
   font-size: 14px;
+}
+
+/* Responsive Styles */
+
+@media only screen and (max-width: 768px) {
+  /* Adjustments for smaller screens */
+  
+  /* Header and Navigation */
+  nav ul li {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  /* Sections */
+  section {
+    padding: 30px;
+  }
+  
+  /* Home Section */
+  #home h1 {
+    font-size: 28px;
+  }
+  
+  /* About Section */
+  #about h2 {
+    font-size: 24px;
+  }
+  
+  /* Portfolio Section */
+  #portfolio h2 {
+    font-size: 24px;
+  }
+  
+  /* Blog Section */
+  #blog h2 {
+    font-size: 24px;
+  }
+  
+  /* Contact Section */
+  #contact h2 {
+    font-size: 24px;
+  }
 }
