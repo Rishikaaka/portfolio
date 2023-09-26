@@ -4,7 +4,7 @@
 Dedicated and highly skilled Security Engineer with a passion for safeguarding digital ecosystems. Offering a proven track record of effectively mitigating security risks, resolving complex incidents, and championing security-centric product development. Seeking to leverage my experience and expertise to contribute to the organisation's mission of creating safer systems for users and developers.
 
 ## Summary:
-As an experienced Security Engineer, I bring a deep understanding of security frameworks, incident response coordination, and a technical background in software engineering and system administration. With a Master's degree in Computer Science and proficiency in Python, Go, C/C++, and Java, I possess a solid foundation for addressing today's cybersecurity challenges. I excel in fostering collaboration among cross-functional teams, applying data-driven problem-solving approaches, and communicating effectively, both verbally and in writing.
+As an experienced Security Engineer, I bring a deep understanding of security frameworks, incident response coordination, and a technical background in software engineering and system administration. With a Master's degree in Computer Science and proficiency in Python, C, Shell, and Bash. I possess a solid foundation for addressing today's cybersecurity challenges. I excel in fostering collaboration among cross-functional teams, applying data-driven problem-solving approaches, and communicating effectively, both verbally and in writing.
 
 ## Education:
  - M.S., Computer Science | Texas Tech University | 2019
@@ -38,7 +38,7 @@ As an experienced Security Engineer, I bring a deep understanding of security fr
 Security Frameworks (ISO 27001, Safe Harbor Frameworks)
 Threat Modeling and Risk Assessment
 Incident Response Coordination
-Software Development (Python, Go, C/C++, Java)
+Software Development (Python, C, Shell, and Bash)
 Security Auditing and Compliance
 Team Leadership and Collaboration
 Data-Driven Problem Solving
