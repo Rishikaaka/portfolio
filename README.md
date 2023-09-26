@@ -1,105 +1,64 @@
-# portfolio
+#Information Security Manager
 
-#test to see how this looks 
+##Objective:
+Dedicated and highly skilled Security Engineer with a passion for safeguarding digital ecosystems. Offering a proven track record of effectively mitigating security risks, resolving complex incidents, and championing security-centric product development. Seeking to leverage my experience and expertise to contribute to the organisation's mission of creating safer systems for users and developers.
 
-## Intrested topics
-Maths, security
+##Summary:
+As an experienced Security Engineer, I bring a deep understanding of security frameworks, incident response coordination, and a technical background in software engineering and system administration. With a Master's degree in Computer Science and proficiency in Python, Go, C/C++, and Java, I possess a solid foundation for addressing today's cybersecurity challenges. I excel in fostering collaboration among cross-functional teams, applying data-driven problem-solving approaches, and communicating effectively, both verbally and in writing.
 
+##Professional Experience:
 
-## work experience
-Cyber Security Engineer @ Healthcare
--impact 1
--impact 2
+Security Manager | PPSWCF
+Tampa, FL | 
 
-## Projects
-CTF challeneges
--NCL
--Wicys
--SANS
--Target
+- Conducted comprehensive threat modelling, risk reviews, and team exercises to proactively identify and remediate security risks, resulting in a 20% reduction in vulnerabilities.
+- Analyzed security and abuse incidents to extract valuable insights into attack vectors and Tactics, Techniques, and Procedures (TTPs), enabling the development of targeted threat mitigation strategies.
+- Led security engineering projects aimed at eliminating attack vectors, enhancing platform hardening, and improving detection and monitoring capabilities, ensuring robust protection against cyber threats.
+- Influenced the technical direction of products by providing guidance to ensure that new features and services were developed with security and privacy in mind, strengthening organisations' security posture.
+- Coordinated seamlessly across multiple teams to resolve diverse cybersecurity and abuse incidents, fostering excellence in security risk management by identifying, monitoring, and reporting security gaps and incidents.
 
+Security Engineer | PPFA
+Tampa, FL
 
-## The Minimal theme
-.github/workflows/ci.yaml Gem Version
+- Collaborated with the security team to identify vulnerabilities in the organization's systems, resulting in a 30% reduction in security incidents.
+- Conducted regular security audits and assessments, ensuring compliance with industry standards and regulations.
+- Assisted in the development of security policies and procedures, contributing to the enhancement of the organization's security posture.
+- Monitored and responded to security alerts and incidents, maintaining the integrity and confidentiality of sensitive data.
+- Conducted security awareness training sessions for employees, promoting a culture of cybersecurity vigilance.
 
-Minimal is a Jekyll theme for GitHub Pages. You can preview the theme to see what it looks like, or even use it today.
+Software Engineer | OSI
+Odessa, Tx 
 
-Thumbnail of Minimal
+- Developed and maintained mission-critical software applications, ensuring optimal functionality and performance.
+- Collaborated with cross-functional teams to gather requirements and translate them into effective software solutions.
+- Conducted code reviews and implemented best practices for secure coding, resulting in a reduction in code vulnerabilities by 25%.
+- Actively participated in the debugging and troubleshooting of complex software issues, consistently meeting project deadlines.
+- Designed and implemented automated testing procedures, enhancing software reliability and stability.
 
-Usage
-To use the Minimal theme:
+#Education:
 
-Add the following to your site's _config.yml:
+Master of Science in Computer Science | Texas Tech University | 2019
+Bachelor of Science in Computer Science | Kakatiya Institute of Technology and Sciences | 2017
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-Optionally, if you'd like to preview your site on your computer, add the following to your site's Gemfile:
+#Skills:
 
-gem "github-pages", group: :jekyll_plugins
-Customizing
-Configuration variables
-Minimal will respect the following variables, if set in your site's _config.yml:
+Security Frameworks (ISO 27001, Safe Harbor Frameworks)
+Threat Modeling and Risk Assessment
+Incident Response Coordination
+Software Development (Python, Go, C/C++, Java)
+Security Auditing and Compliance
+Team Leadership and Collaboration
+Data-Driven Problem Solving
+Strong Verbal and Written Communication
+Security Policy Development
+Network and Systems Hardening
+Code Review and Secure Coding Practices
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
-Additionally, you may choose to set the following optional variables:
+#Certifications:
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-Stylesheet
-If you'd like to add your own custom styles:
+Certified Information Systems Security Professional (CISSP) - (Currently Pursuing)
+Certified of Cloud Security Knowledge - 2023
+CompTIA Security+ -2020
 
-Create a file called /assets/css/style.scss in your site
-Add the following content to the top of the file, exactly as shown:
----
----
-
-@import "{{ site.theme }}";
-Add any custom CSS (or Sass, including imports) you'd like immediately after the @import line
-Note: If you'd like to change the theme's Sass variables, you must set new values before the @import line in your stylesheet.
-
-Layouts
-If you'd like to change the theme's HTML layout:
-
-For some changes such as a custom favicon, you can add custom files in your local _includes folder. The files provided with the theme provide a starting point and are included by the original layout template.
-For more extensive changes, copy the original template from the theme's repository
-(Pro-tip: click "raw" to make copying easier)
-Create a file called /_layouts/default.html in your site
-Paste the default layout content copied in the first step
-Customize the layout as you'd like
-Customizing Google Analytics code
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into _includes/head-custom-google-analytics.html in your Jekyll site.
-
-Overriding GitHub-generated URLs
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-Look at the template source to determine the name of the variable. It will be in the form of {{ site.github.zip_url }}.
-Specify the URL that you'd like the template to use in your site's _config.yml. For example, if the variable was site.github.url, you'd add the following:
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
-When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-Note: You must remove the site. prefix, and each variable name (after the github.) should be indent with two space below github:.
-
-For more information, see the Jekyll variables documentation.
-
-Roadmap
-See the open issues for a list of proposed features (and known issues).
-
-Project philosophy
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-Contributing
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See the CONTRIBUTING file for instructions on how to contribute.
-
-Previewing the theme locally
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-Clone down the theme's repository (git clone https://github.com/pages-themes/minimal)
-cd into the theme's directory
-Run script/bootstrap to install the necessary dependencies
-Run bundle exec jekyll serve to start the preview server
-Visit localhost:4000 in your browser to preview the theme
-Running tests
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run script/cibuild. You'll need to run script/bootstrap once before the test script will work.
+#References:
+Available upon request.
