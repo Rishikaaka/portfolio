@@ -48,7 +48,7 @@ As an experienced Security Engineer, I bring a deep understanding of security fr
 ## Certifications:
 
 - Certified Information Systems Security Professional (CISSP) - (Currently Pursuing)
-- Certified of Cloud Security Knowledge - 2023
+- Certified in Cloud Security Knowledge - 2023
 - (ISC)2 Certified in CyberSecurity - 2023
 - CompTIA Security+ -2020
 
