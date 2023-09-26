@@ -1,6 +1,6 @@
 # Information Security Manager
 
-#### Objective:
+## Objective:
 Dedicated and highly skilled Security Engineer with a passion for safeguarding digital ecosystems. Offering a proven track record of effectively mitigating security risks, resolving complex incidents, and championing security-centric product development. Seeking to leverage my experience and expertise to contribute to the organisation's mission of creating safer systems for users and developers.
 
 ## Summary:
