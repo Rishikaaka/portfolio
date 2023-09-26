@@ -35,7 +35,7 @@ As an experienced Security Engineer, I bring a deep understanding of security fr
 
 ## Skills:
 
-Security Frameworks (ISO 27001, Safe Harbor Frameworks)
+Security Frameworks (ISO 27001, NIST, HIPAA, PCI, COBIT Frameworks)
 Threat Modeling and Risk Assessment
 Incident Response Coordination
 Software Development (Python, C, Shell, and Bash)
