@@ -32,26 +32,27 @@ As an experienced Security Engineer, I bring a deep understanding of security fr
 - Actively participated in the debugging and troubleshooting of complex software issues, consistently meeting project deadlines.
 - Designed and implemented automated testing procedures, enhancing software reliability and stability.
 
-
 ## Skills:
-
-Security Frameworks (ISO 27001, NIST, HIPAA, PCI, COBIT Frameworks)
-Threat Modeling and Risk Assessment
-Incident Response Coordination
-Software Development (Python, C, Shell, and Bash)
-Security Auditing and Compliance
-Team Leadership and Collaboration
-Data-Driven Problem Solving
-Strong Verbal and Written Communication
-Security Policy Development
-Network and Systems Hardening
-Code Review and Secure Coding Practices
+- Security Frameworks (ISO 27001, NIST, HIPAA, PCI, COBIT Frameworks)
+- Threat Modeling and Risk Assessment
+- Incident Response Coordination
+- Software Development (Python, C, Shell, and Bash)
+- Security Auditing and Compliance
+- Team Leadership and Collaboration
+- Data-Driven Problem Solving
+- Strong Verbal and Written Communication
+- Security Policy Development
+- Network and Systems Hardening
+- Code Review and Secure Coding Practices
 
 ## Certifications:
 
 Certified Information Systems Security Professional (CISSP) - (Currently Pursuing)
 Certified of Cloud Security Knowledge - 2023
+(ISC)2 Certified in CyberSecurity - 2023
 CompTIA Security+ -2020
 
 ## References:
  Available upon request.
+
+ - [Information Security Blog] (https://medium.com/@) (coming soon.....)
