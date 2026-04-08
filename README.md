@@ -1,9 +1,9 @@
 # Rishika R Akavaram
-# Information Security Manager
 - LinkedIn: https://www.linkedin.com/in/rishikaakavaram
 - E-mail: rishika51896@gmail.com
 - Git: https://github.com/Rishikaaka
-
+  
+# Information Security Manager
 ## Objective:
 Dedicated and highly skilled Security leader with a passion for safeguarding digital ecosystems. Offering a proven track record of effectively mitigating security risks, resolving complex incidents, and championing security-centric product development. Seeking to leverage my experience and expertise to contribute to the organisation's mission of creating safer systems for users and developers.
 
