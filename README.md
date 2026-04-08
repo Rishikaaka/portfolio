@@ -1,4 +1,4 @@
-# Rishika R Akavaram
+
 - LinkedIn: https://www.linkedin.com/in/rishikaakavaram
 - E-mail: rishika51896@gmail.com
 - Git: https://github.com/Rishikaaka
@@ -79,6 +79,7 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 
 ## Speaking Enagagements:
 - “Easy Wins With Tools You Already Have” **HS-ISAC Spring Summit 2025** highlights practical strategies for maximizing value and efficiency by leveraging existing technology and resources. The presentation focuses on simple, actionable steps teams can take to reduce waste, improve workflows, and achieve immediate results-without additional investment
+  
 - **Upcoming**
 - “From Checkboxes to Capability, Achieving operational resilience in a regulated healthcare world “ **HS-ISAC Spring Summit 2026**
 - “2026 AI Trends and Threat landscape” **WICYS 2026**
