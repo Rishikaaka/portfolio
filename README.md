@@ -11,7 +11,7 @@ Dedicated and highly skilled Security leader with a passion for safeguarding dig
 Accomplished Information Security Leader with 7+ years of progressive experience in security and compliance management within healthcare and nonprofit environments. Proven ability to lead enterprise-wide security programs, drive compliance with HIPAA and state privacy laws, and foster a culture of accountability and equity. Adept at managing teams, vendor relationships, and risk management initiatives
 
 ## Professional Experience:
-**Information Security Manager @ PPFL (_Dec 2021 - Present_)**
+#**Information Security Manager @ PPFL (_Dec 2021 - Present_)**
 - Lead and manage state wide comprehensive information security programs, including risk assessments, incident response, and infrastructure hardening across multiple clinical sites
 - Developed and deployed a new security framework for the network and infrastructure, resulting in improved performance, visibility, and security for remote offices and the data center
 - Oversee the work of Information Security Engineers, ensuring timely execution of compliance initiatives and alignment with NIST, ISO 27001/27002, HIPAA, HITECH, and state privacy laws
@@ -26,7 +26,7 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 - Support PPFA accreditation efforts in partnership with CIO and affiliate teams
 - Champion organizational values, equity, and service excellence, proactively seeking ways to improve efficiency and accountability
 
-**Security Manager -Threat Intel @ PPSWCF**  
+#**Security Manager -Threat Intel @ PPSWCF**  
 - Conducted comprehensive threat modelling, risk reviews, and team exercises to proactively identify and remediate security risks, resulting in a 20% reduction in vulnerabilities
 - Analyzed security and abuse incidents to extract valuable insights into attack vectors and Tactics, Techniques, and Procedures (TTPs), enabling the development of targeted threat mitigation strategies
 - Led security engineering projects aimed at eliminating attack vectors, enhancing platform hardening, and improving detection and monitoring capabilities, ensuring robust protection against cyber threats
@@ -38,7 +38,7 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 - Monitored and responded to security alerts and incidents, maintaining the integrity and confidentiality of sensitive data.
 - Conducted security awareness training sessions for employees, promoting a culture of cybersecurity vigilance.
 
-**IT Operations Manager (Full Time) @ OSI (_January 2020 - Dec 2021_)**
+#**IT Operations Manager (Full Time) @ OSI (_January 2020 - Dec 2021_)**
 - Implemented security solutions and managed IT operations across multiple offices, supporting over 220 users
 - Reduced operational expenses by 30% while maintaining critical system SLAs
 - Led transition from MSP, improving cost efficiency and service delivery
@@ -50,20 +50,20 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 - Automation of Macros to send performance reports to engineering teams using Bash/Perl scripts
 - Database administrator securing SQL, PostgreSQL databases by following IAM best practices
 
-**Software Engineer @ OSI (_August 2019 - Dec 2019_)**
+#**Software Engineer @ OSI (_August 2019 - Dec 2019_)**
 - Developed and maintained mission-critical software applications, ensuring optimal functionality and performance.
 - Collaborated with cross-functional teams to gather requirements and translate them into effective software solutions.
 - Conducted code reviews and implemented best practices for secure coding, resulting in a reduction in code vulnerabilities by 25%.
 - Actively participated in the debugging and troubleshooting of complex software issues, consistently meeting project deadlines.
 - Designed and implemented automated testing procedures, enhancing software reliability and stability.
 
-**Security Intern @ Planned Parenthood Fedration of America (_May 2018 - Dec 2018_)**
+#**Security Intern @ Planned Parenthood Fedration of America (_May 2018 - Dec 2018_)**
 - Developed a security model for PCI-DSS compliance to enhance the physical security by creating a separate VLAN and restricting the team access on other networks
 - Documented the workflows of PPFA services in AWS and gained experience in security focused cloud services i.e., OKTA (IAM), Cisco Meraki Console, RED IM, Carbon Black
 - Configured and administered Network Attached Storage (NAS) Developed PCI-DSS compliant security models and documented cloud workflows for PPFA services
 - Gained experience in Network Infrastructure, InfoSec & Compliance in an enterprise environment
 
-**Microsoft Student Partner @ Microsoft (_August 2015 - May 2017_)**
+#**Microsoft Student Partner @ Microsoft (_August 2015 - May 2017_)**
 - Consistently worked with Microsoft Professionals all over the nation to share the knowledge on MS technologies and run workshops
 - Presented a Wi-Fi Network Penetration Testing report at a National Institute (NITW) Cyber Innovation Talk
 - Professional (MVA): Microsoft Azure Fundamentals
@@ -79,10 +79,10 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 
 ## Speaking Enagagements:
 - “Easy Wins With Tools You Already Have” **HS-ISAC Spring Summit 2025** highlights practical strategies for maximizing value and efficiency by leveraging existing technology and resources. The presentation focuses on simple, actionable steps teams can take to reduce waste, improve workflows, and achieve immediate results-without additional investment
-**Upcoming**
-“From Checkboxes to Capability, Achieving operational resilience in a regulated healthcare world “ **HS-ISAC Spring Summit 2026**
-“2026 AI Trends and Threat landscape” **WICYS 2026**
-“AI and the 2026 Threatscape: Securing Innovation in the Age of Intelligent Adversaries” **GHC26**
+- **Upcoming**
+- “From Checkboxes to Capability, Achieving operational resilience in a regulated healthcare world “ **HS-ISAC Spring Summit 2026**
+- “2026 AI Trends and Threat landscape” **WICYS 2026**
+- “AI and the 2026 Threatscape: Securing Innovation in the Age of Intelligent Adversaries” **GHC26**
 
 ## Skills:
 - Security & Compliance Tools
