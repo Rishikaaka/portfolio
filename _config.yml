@@ -1,0 +1,9 @@
+# portfolio:
+#   - title: "Project 1"
+#     description: "Description of the project"
+#     url: "/portfolio/project1"
+#title: Rishika R Akavaram
+#logo: /assets/img/headshot.PNG
+#description: text below image
+show_downloads: false
+theme: jekyll-theme-hacker
