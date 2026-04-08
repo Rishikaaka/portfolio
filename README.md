@@ -83,20 +83,20 @@ Accomplished Information Security Leader with 7+ years of progressive experience
 - “AI and the 2026 Threatscape: Securing Innovation in the Age of Intelligent Adversaries” **GHC26**
 
 ## Skills:
-- Security & Compliance Tools
-Microsoft Purview (Compliance/DLP), Defender (Endpoint & Cloud), Carbon Black, CrowdStrike, Splunk, Nessus, SolarWinds, Dynatrace,Trend Micro, Proofpoint, Wireshark, Burp Suite, Metasploit, Nmap, TCPdump, SQLmap, PolicyTech, CORL TPRM
-- Governance, Risk & Forensics
-Autopsy 4.16, Risk & Control Assessments (RCSA), Incident Response, SIEM, DLP, IDS/IPS, Vulnerability Management, NIST 800-53/61, ISO 27001/2, CIS Controls, HIPAA, HITRUST, SOC 2 Type ll, PCI-DSS, GDPR
-- Access Control & Identity Management
-Okta, OneLogin, Intune, Entra ID (Azure AD), SonicWall/Palo Alto/Cisco ASA/Firewalls, Active Directory, IAM Policy Administration, VPN
-- Cloud & Virtualization
-Azure, AWS, Citrix Virtual Apps/Desktop, VMware, Hyper-V, Datto
-- Networking & Systems Administration
-Office 365 admin, ConnectWise Automate/Manage, VOIP, SFTP, DNS, VPN, Citrix, JIRA
-- Programming & Databases
-C, Bash, PHP, Java, SQL, MySQL, PostgreSQL
-- Operating Systems
-Windows Server (2016/2019), Kali Linux, Ubuntu
+- Security & Compliance Tools-
+      Microsoft Purview (Compliance/DLP), Defender (Endpoint & Cloud), Carbon Black, CrowdStrike, Splunk, Nessus, SolarWinds, Dynatrace,Trend Micro, Proofpoint, Wireshark, Burp Suite, Metasploit, Nmap, TCPdump, SQLmap, PolicyTech, CORL TPRM
+- Governance, Risk & Forensics-
+        Autopsy 4.16, Risk & Control Assessments (RCSA), Incident Response, SIEM, DLP, IDS/IPS, Vulnerability Management, NIST 800-53/61, ISO 27001/2, CIS Controls, HIPAA, HITRUST, SOC 2 Type ll, PCI-DSS, GDPR
+- Access Control & Identity Management-
+          Okta, OneLogin, Intune, Entra ID (Azure AD), SonicWall/Palo Alto/Cisco ASA/Firewalls, Active Directory, IAM Policy Administration, VPN
+- Cloud & Virtualization-
+          Azure, AWS, Citrix Virtual Apps/Desktop, VMware, Hyper-V, Datto
+- Networking & Systems Administration-
+          Office 365 admin, ConnectWise Automate/Manage, VOIP, SFTP, DNS, VPN, Citrix, JIRA
+- Programming & Databases-
+          C, Bash, PHP, Java, SQL, MySQL, PostgreSQL
+- Operating Systems-
+          Windows Server (2016/2019), Kali Linux, Ubuntu
 - Security Frameworks (ISO 27001, NIST, HIPAA, PCI, COBIT Frameworks)
 - Threat Modeling and Risk Assessment
 
